@@ -1,0 +1,5 @@
+
+ @font-face { font-style : bold; src: url("assets/fonts/InterBold.ttf"); font-family : "Inter"; font-weight : 700;  }
+ @font-face { font-style : normal; src: url("assets/fonts/SpaceGroteskRegular.ttf"); font-family : "Space Grotesk"; font-weight : 400;  }
+ @font-face { font-style : normal; src: url("assets/fonts/InterRegular.ttf"); font-family : "Inter"; font-weight : 400;  }
+ @font-face { font-style : normal; src: url("assets/fonts/JockeyOneRegular.ttf"); font-family : "Jockey One"; font-weight : 400;  }
